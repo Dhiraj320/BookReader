@@ -71,6 +71,13 @@ class _SearchPageState extends State<SearchPage> {
     return Scaffold(
       backgroundColor: Color(0xFF1f1545),
       appBar: AppBar(
+        leading: IconButton(
+          icon: Icon(
+            Icons.arrow_back_ios,
+            color: Colors.white,
+          ),
+          onPressed: () {},
+        ),
         backgroundColor: Color(0xFF1f1545),
         elevation: 0,
       ),

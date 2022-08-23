@@ -36,7 +36,10 @@ class _LogOutState extends State<LogOut> {
                             MaterialPageRoute(
                                 builder: (context) => SignInScreen()));
                       },
-                      child: Text('Yes'),
+                      child: Text(
+                        'Yes',
+                        style: TextStyle(color: Colors.white),
+                      ),
                     ),
                   ),
                 ],
@@ -58,7 +61,10 @@ class _LogOutState extends State<LogOut> {
                             MaterialPageRoute(
                                 builder: (context) => HomePage()));
                       },
-                      child: Text('No'),
+                      child: Text(
+                        'No',
+                        style: TextStyle(color: Colors.white),
+                      ),
                     ),
                   ),
                 ],
