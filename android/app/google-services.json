@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124837735936",
+    "project_id": "bookread-b7df8",
+    "storage_bucket": "bookread-b7df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124837735936:android:e60cd995ec33498a2fb2e5",
+        "android_client_info": {
+          "package_name": "com.example.bookreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124837735936-l6f05n8p1bmbg0h772sc59seeal0ubho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookreader",
+            "certificate_hash": "1e54ef3e7e323a2d3f1587621d5731e72c125c0c"
+          }
+        },
+        {
+          "client_id": "124837735936-1q1ihkbk5t91nefjmp95lee38iborpja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8bh5HPNOBIzobIW3qzqYivaBGAlY5g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124837735936-1q1ihkbk5t91nefjmp95lee38iborpja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
