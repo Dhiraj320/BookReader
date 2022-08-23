@@ -64,7 +64,7 @@ Container signInSignUpButton(
       style: ButtonStyle(
         backgroundColor: MaterialStateProperty.resolveWith((states) {
           if (states.contains(MaterialState.pressed)) {
-            return Colors.blueAccent.shade100;
+            return Color(0xFF1f1545);
           }
           return Colors.white;
         }),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../modell/book_model.dart';
+import '../screens/home_screen.dart';
 
 class SearchPage extends StatefulWidget {
   const SearchPage({Key? key}) : super(key: key);
@@ -76,7 +77,10 @@ class _SearchPageState extends State<SearchPage> {
             Icons.arrow_back_ios,
             color: Colors.white,
           ),
-          onPressed: () {},
+          onPressed: () {
+            Navigator.push(
+                context, MaterialPageRoute(builder: (context) => HomePage()));
+          },
         ),
         backgroundColor: Color(0xFF1f1545),
         elevation: 0,

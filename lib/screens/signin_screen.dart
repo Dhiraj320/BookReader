@@ -28,14 +28,6 @@ class _SignInScreenState extends State<SignInScreen> {
 
             Color(0xFF1f1545),
             Color(0xFF1f1545)
-
-            //Colors.blueAccent,
-            // Colors.green,
-
-            //Colors.orange,
-
-            // Color(0xFF4E61F4),
-            // Color(0xFFFFFFFF),
           ],
           begin: Alignment.bottomCenter,
           end: Alignment.topCenter,

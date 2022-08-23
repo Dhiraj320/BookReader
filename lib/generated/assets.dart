@@ -12,12 +12,6 @@ class Assets {
   static const String assets8 = 'assets/8.jpg';
   static const String assetsBestseller = 'assets/bestseller.jpg';
   static const String assetsBook = 'assets/book.png';
-  static const String assetsBook1 = 'assets/book1.jpeg';
-  static const String assetsBook2 = 'assets/book2.jpeg';
-  static const String assetsBook3 = 'assets/book3.jpeg';
-  static const String assetsBook4 = 'assets/book4.jpeg';
-  static const String assetsBook5 = 'assets/book5.jpeg';
-  static const String assetsBook6 = 'assets/book6.jpeg';
   static const String assetsBooksplash = 'assets/booksplash.png';
   static const String assetsCover = 'assets/cover.jpg';
   static const String assetsHuman = 'assets/human.png';
